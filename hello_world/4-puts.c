@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  * main - function includes the following, uses put to put a string
  * Return: 0
