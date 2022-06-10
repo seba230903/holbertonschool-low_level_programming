@@ -4,7 +4,7 @@
  * Description: prints the alphabet followed by a new line
  * Return: 0
  */
-int main(void)
+void print_alphabet(void)
 {
 	int a;
 
@@ -13,5 +13,4 @@ int main(void)
 		_putchar(a);
 	}
 	_putchar(10);
-	return (0);
 }
