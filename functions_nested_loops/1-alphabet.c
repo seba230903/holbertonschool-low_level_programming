@@ -10,8 +10,8 @@ int main(void)
 
 	for (a = 97; a <= 122; a++)
 	{
-		putchar(a);
+		_putchar(a);
 	}
-	putchar(10);
+	_putchar(10);
 	return (0);
 }
