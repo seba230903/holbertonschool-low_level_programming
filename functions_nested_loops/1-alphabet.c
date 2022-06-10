@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet - print_alphabet
+ * print_alphabet - prints alphabet
  * Description: prints the alphabet followed by a new line
  * Return: 0
  */
@@ -10,7 +10,7 @@ int print_alphabet(void)
 
 	for (a = 'a'; a <= 'z'; a++)
 	{
-		putchar(a);
+		_putchar(a);
 	}
-	putchar(10);
+	_putchar(10);
 }
