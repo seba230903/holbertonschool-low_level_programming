@@ -2,7 +2,6 @@
 /**
  * print_numbers - prints numbers
  * Description: prints from 0 to 9
- * @a: num
  */
 void print_numbers(void)
 {
