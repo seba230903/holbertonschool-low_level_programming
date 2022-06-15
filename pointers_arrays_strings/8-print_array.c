@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * print_array - prints array
- * Description: prints n elements of an array of integers, followed by a new line\
+ * Description: prints elements of an array of integers, followed by a new line
+ * @a: array
  * @n: num
  */
 void print_array(int *a, int n)
