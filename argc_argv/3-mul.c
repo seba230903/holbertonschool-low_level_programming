@@ -3,7 +3,7 @@
 /**
  * main - main
  * Description: multiplies two numbers
- * @argc: argument counter
+ * @argc: argument count
  * @argv: argument vector
  * Return: 0 or 1 if error
  */
