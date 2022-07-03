@@ -10,7 +10,7 @@
 void print_all(const char * const format, ...)
 {
 	va_list args;
-	long unsigned int i = 0;
+	unsigned long int i = 0;
 
 	if (format == NULL)
 	{
