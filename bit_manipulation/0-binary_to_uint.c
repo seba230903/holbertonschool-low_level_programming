@@ -25,5 +25,5 @@ unsigned int binary_to_uint(const char *b)
 			num = num + base;
 		base = base * 2;/*2 for binary*/
 	}
-	return (n);
+	return (num);
 }
