@@ -2,7 +2,7 @@
 /**
  * hash_table_create - creates a hash table
  * Description: creates a hash table
- * @size - unsigned long int
+ * @size: unsigned long int
  * Return: pointer to newly created hash table or NULL if fail
  */
 hash_table_t *hash_table_create(unsigned long int size)
